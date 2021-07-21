@@ -1,4 +1,4 @@
-module github.com/blockchain-Bitcion/golib
+module github.com/zhangxiaocong/golib
 go 1.13
 
 
